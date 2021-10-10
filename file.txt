@@ -1,1 +1,4 @@
 this is github very interesting topic in entire devops
+
+
+adding few parameters for understanding git merge command, pull request
